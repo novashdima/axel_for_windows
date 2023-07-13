@@ -1,6 +1,6 @@
 # Axel for windows
 
-Axel x86-64 v2.17.3 builded for windows with openssl 1.1 & intl library:
+Axel x86-64 v2.17.3 builded in Cygwin 2.925 (64 bit) for windows with openssl 1.1 & intl library:
 
     > .\axel.exe -V
     Axel version 2.17.3+gb1cf9b (cygwin)
